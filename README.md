@@ -28,15 +28,16 @@ Usage:
 
 To run the quiz application, ensure you have Node.js installed on your machine. Then, execute the script using the command:
 
-Copy code
+Copy code:
 node index.js
+
 Follow the prompts to proceed through the quiz, and press Enter to submit your answers and progress through the questions.
 
 Installation via NPX:
 
 You can also run the quiz directly from npm using NPX. Simply execute the following command:
 
-Copy code
+Copy code:
 npx rs_project08_quiz-system
 
 Contributing:
